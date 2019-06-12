@@ -5,7 +5,7 @@
 
 
 2. Go to https://azure.microsoft.com/en-us/services/cognitive-services/directory/vision/
-3. Activate 7-day free Azure Cognitove Face API trial
+3. Activate 7-day Free Azure Cognitove Face API trial
 
 4. Copy Face API Key 1
 5. Run and open the Windows Client Intelligent Kiosk app.
@@ -15,4 +15,4 @@
 9. If test passed you are ready to go.
 
 10. Go back to Demos folder and select Realtime Crowd Insights.
-11. Be aware about Free Azure Cognitove Face A
+11. Be aware about Free Azure Cognitove Face API limits 20 transaction/minutes

@@ -1,4 +1,4 @@
-# FaceApiDemo
+# FaceApiDemo Navod instalace
 
 ![Klientapka](Kiosk.png)
 

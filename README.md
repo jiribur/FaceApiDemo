@@ -1,6 +1,6 @@
 # FaceApiDemo
 
-![xicht]jiribur.github.com/jiribur/FaceApiDemo/blob/master/Kiosk.png
+![xicht] (jiribur.github.com/jiribur/FaceApiDemo/blob/master/Kiosk.png)
 
 1. Download the Windows store demo client app from https://www.microsoft.com/store/apps/9nblggh5qd84
 (based on https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)

@@ -1,4 +1,4 @@
-# FaceApiDemo n8vod instalace
+# FaceApiDemo návod instalace
 
 ![Klientapka](Kiosk.png)
 
